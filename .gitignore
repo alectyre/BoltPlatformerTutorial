@@ -32,3 +32,10 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Bolt
+Bolt.Core.ProjectSettings.asset
+Bolt.Flow.ProjectSettings.asset
+Bolt.State.ProjectSettings.asset
+Ludiq.Core.ProjectSettings.asset
+Ludiq.Graphs.ProjectSettings.asset
